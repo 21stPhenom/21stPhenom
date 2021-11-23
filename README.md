@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, python programming and lots more.
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on open source Python and JavaScript projects
-- 📫 How to reach me: Facebook: Ahm Isaac
+- 📫 How to reach me: phenom.h.acks21@gmail.com, Facebook: <a href="https://www.facebook.com/profile.php?id=100005316736875">Ahm Isaac</a>, Twitter <a href="https://twitter.com/_21st_Phenom">@_21st_Phenom</a>
 
 <!---
 21stPhenom/21stPhenom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
