@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Enoch Isaac
-- 👀 I’m interested in web development, python programming and lots more.
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on open source Python and JavaScript projects
+- 👀 I’m a backend developer who is also interested in embedded systems engineering.
+- 🌱 I work with Python and Django at the moment.
+- 💞️ I’m looking to collaborate on open source Python and Django projects.
 - 📫 How to reach me: phenom.h.acks21@gmail.com, Facebook: <a href="https://www.facebook.com/21stPhenom">Enoch Isaac</a>, Twitter <a href="https://twitter.com/_21st_Phenom">@_21st_Phenom</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
